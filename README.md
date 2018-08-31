@@ -12,14 +12,14 @@ Platform: Windows Spyder
 Proposed architecture:
 
 <center>
-<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/overview.jpg" width="50%" height="50%" />
+<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/overview.jpg" width="70%" height="70%" />
 Figure 1. Architecture of the proposed framework
 </center>
 
 
 CNN framework
 <center>
-<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/network.jpg" width="50%" height="50%" />
+<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/network.jpg" width="80%" height="80%" />
 Figure 2. Architecture of the proposed neural network
 </center>
 
@@ -27,16 +27,16 @@ Figure 2. Architecture of the proposed neural network
 Experiment results on real remote sensing images are expressed below:
 
 <center>
-<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result1.jpg" width="50%" height="50%" />
+<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result1.jpg" width="80%" height="80%" />
 Figure 3. Left: Raw deformed image; Middle: Resotred image by proposed method. Right: Resoted image by on board sensors 
 </center>
 
 <center>
-<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result2.jpg" width="50%" height="50%" />
+<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result2.jpg" width="80%" height="80%" />
 Figure 4. Left: Raw deformed image; Middle: Resotred image by proposed method. Right: Resoted image by on board sensors 
 </center>
 
 <center>
-<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result3.jpg" width="50%" height="50%" />
+<img src="https://github.com/caiya55/jitter-compensation/raw/master/fig/result3.jpg" width="80%" height="80%" />
 Figure 4. Left: Raw deformed image; Middle: Resotred image by proposed method. Right: Resoted image by on board sensors 
 </center>
