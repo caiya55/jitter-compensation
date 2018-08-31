@@ -11,6 +11,11 @@ Platform: Windows Spyder
 
 CNN architecture:
 
+<center>
+<img src="https://img-blog.csdn.net/20151129213701642" width="25%" height="25%" />
+Figure 1. Lena
+</center>
+
 ![image](http://github.com/caiya55/jitter-compensation/raw/master/fig/overview.jpg)
 
 
