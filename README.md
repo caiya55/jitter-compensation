@@ -11,6 +11,6 @@ Platform: Windows Spyder
 
 CNN architecture:
 
-![image](http://github.com/caiya555/jitter-compensation/raw/master/images/nongshalie.jpg)
+![image](http://github.com/caiya555/jitter-compensation/master/fig/overview.jpg)
 
 
